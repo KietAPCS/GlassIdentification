@@ -1,4 +1,4 @@
-# Glass Identification — EDA, Modeling, and Benchmarking
+# Glass Identification — EDA, Modeling
 
 Comprehensive analysis and multi-model benchmarking on the UCI Glass Identification dataset. The project explores data cleaning, exploratory data analysis (EDA), handling class imbalance, and training a range of classifiers. Final results and saved models are included for reuse.
 
