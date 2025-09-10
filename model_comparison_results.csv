@@ -1,0 +1,9 @@
+Model,Accuracy,F1-Score,Precision,Recall,Complexity,Interpretability,Training Speed,Overall Rank
+KNN,0.8519,0.8079,0.8861,0.8181,Low,Medium,Fast,1
+Random Forest,0.8605,0.8324,0.8448,0.8429,Medium,Medium,Medium,2
+XGBoost,0.8372,0.8249,0.7827,0.904,High,Low,Slow,3
+Logistic L2,0.5882,0.6885,0.7145,0.7554,Low,High,Fast,4
+Logistic L1,0.5882,0.6885,0.7145,0.7554,Low,High,Fast,5
+ElasticNet,0.5882,0.6638,0.6649,0.7549,Low,High,Fast,6
+SVM,0.7407,0.6664,0.8133,0.6258,Medium,Low,Medium,7
+Neural Network,0.6296,0.6685,0.7063,0.6739,High,Low,Slow,8
